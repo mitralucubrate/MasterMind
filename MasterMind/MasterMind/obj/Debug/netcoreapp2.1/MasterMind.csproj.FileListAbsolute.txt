@@ -1,0 +1,11 @@
+E:\lucubrate\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.csprojAssemblyReference.cache
+E:\lucubrate\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.csproj.CoreCompileInputs.cache
+E:\lucubrate\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.AssemblyInfoInputs.cache
+E:\lucubrate\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.AssemblyInfo.cs
+E:\lucubrate\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.deps.json
+E:\lucubrate\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.runtimeconfig.json
+E:\lucubrate\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.runtimeconfig.dev.json
+E:\lucubrate\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.dll
+E:\lucubrate\MasterMind\MasterMind\bin\Debug\netcoreapp2.1\MasterMind.pdb
+E:\lucubrate\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.dll
+E:\lucubrate\MasterMind\MasterMind\obj\Debug\netcoreapp2.1\MasterMind.pdb
